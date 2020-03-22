@@ -1,0 +1,26 @@
+{
+  "name": "theme-new-inksea",
+  "displayName": "new inksea",
+  "description": "new InkSea",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbenarh/theme-new-inksea.git"
+  },
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://github.com/gbenarh/theme-new-inksea.git",
+  "contributes": {
+    "themes": [
+      {
+        "label": "New InkSea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cooler inksea-color-theme.json"
+      }
+    ]
+  }
+}
